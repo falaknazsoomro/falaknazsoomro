@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falaknazsoomro
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++ coding
+- 🌱 I’m currently learning C++ and C# coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @falaklearningtube instagram
 
